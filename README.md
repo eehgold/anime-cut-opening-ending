@@ -42,7 +42,9 @@ apt install mkvmerge
 ## Variables
 
 Working dirs: 
+
 ```IN_DIR="./in"```
+
 ```OUT_DIR="./out"```
 
 The time in seconds that will be removed at the end of the 
