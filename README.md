@@ -9,7 +9,7 @@ I was tired of having to go through the openning of each episode of One Piece, a
 On 20 minutes of episode, we have in reality only 15 minutes in the best cases.
 So I want to save time by removing these "dead" parts
 
-## Le principle
+## The principle
 We have...
 
 ![parts of anime](./docs/parts-of-an-anime-episode.png)
