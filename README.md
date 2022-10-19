@@ -11,9 +11,9 @@ So I want to save time by removing these "dead" parts
 
 ## Le principle
 We have...
-[!parts of anime](./docs/parts-of-an-anime-episode.png)
+![parts of anime](./docs/parts-of-an-anime-episode.png)
 ...and we want
-[!true parts of anime](./docs/parts-of-an-anime-true.png)
+![true parts of anime](./docs/parts-of-an-anime-true.png)
 
 
 ### Prerequisites
@@ -48,7 +48,11 @@ apt install mkvmerge
 ## Nexts steps
 
 :white_check_mark: Working script
+
 :white_large_square: Allow .mp4
+
 :white_large_square: Allow the use of timescodes instead of chapters to split the video
+
 :white_large_square: Friendly menu
+
 :white_large_square: Dynamic
