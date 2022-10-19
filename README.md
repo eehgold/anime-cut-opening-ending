@@ -11,10 +11,12 @@ So I want to save time by removing these "dead" parts
 
 ## Le principle
 We have...
-![parts of anime](./docs/parts-of-an-anime-episode.png)
-...and we want
-![true parts of anime](./docs/parts-of-an-anime-true.png)
 
+![parts of anime](./docs/parts-of-an-anime-episode.png)
+
+...and we want
+
+![true parts of anime](./docs/parts-of-an-anime-true.png)
 
 ### Prerequisites
 
