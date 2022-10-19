@@ -39,6 +39,22 @@ apt install mkvmerge
 2. create two folders : "in" and "out"
 3. done
 
+## Variables
+
+Les dossiers de travail : 
+```IN_DIR="./in"```
+```OUT_DIR="./out"```
+
+Le temps en seconde qui sera enlevé à la fin de la 
+- partie A: afin d'enlever la Commercial Break 
+- partie B: afin d'enlever la partie Credits
+
+*Les parametres ci dessous sont ceux que j'utilise pour One Piece*.
+- *15 secondes pour la "Comercial Break"*
+- *3.3 scondes pour le moment "To be continued"*
+```CUT_PART_A="15"```
+```CUT_PART_B="3.3"```
+
 ## How to use
 
 1. Put all your videos in the "in" folder.
