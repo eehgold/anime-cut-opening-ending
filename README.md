@@ -41,18 +41,20 @@ apt install mkvmerge
 
 ## Variables
 
-Les dossiers de travail : 
+Working dirs: 
 ```IN_DIR="./in"```
 ```OUT_DIR="./out"```
 
-Le temps en seconde qui sera enlevé à la fin de la 
-- partie A: afin d'enlever la Commercial Break 
-- partie B: afin d'enlever la partie Credits
+The time in seconds that will be removed at the end of the 
+- part A: to remove the Commercial Break 
+- part B: to remove the Credits part
 
-*Les parametres ci dessous sont ceux que j'utilise pour One Piece*.
-- *15 secondes pour la "Comercial Break"*
-- *3.3 scondes pour le moment "To be continued"*
+*The parameters below are the ones I use for One Piece*.
+- 15 seconds for the "Comercial Break "*.
+- *3.3 seconds for the "To be continued" moment* 
+
 ```CUT_PART_A="15"```
+
 ```CUT_PART_B="3.3"```
 
 ## How to use
